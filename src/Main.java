@@ -12,7 +12,7 @@ public class Main {
             System.out.println("1. Add student");
             System.out.println("2. Delete student");
             System.out.println("3. Search student");
-            System.out.println("4. Display all students");2
+            System.out.println("4. Display all students");
             System.out.println("5. Exit");
             System.out.print("Choose: ");
             String choice = scanner.nextLine();
